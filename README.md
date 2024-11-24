@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Python Language
 - 💞️ I’m looking to collaborate on Music Score Program Developmet
-- 📫 How to reach me email
+- 📫 How to reach me with email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: programming
 
